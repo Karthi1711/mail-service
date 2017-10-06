@@ -7,6 +7,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @SpringBootApplication
 @EnableOMSCommonWeb
+@EnableEurekaClient
 public class MailServiceApplication {
 
 	public static void main(String[] args) {
