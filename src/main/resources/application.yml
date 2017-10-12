@@ -35,6 +35,6 @@ logging:
   org.springframework.web: ERROR
   com.oms.mail: DEBUG
 
-server:
-    port: 9977
+#server:
+#    port: 9977
 
